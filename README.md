@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UX.</strong>
+  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UI, UX.</strong>
 </p>
 
 <p align="center">
