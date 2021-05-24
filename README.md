@@ -18,6 +18,10 @@
 </p>
 
 <p align="center">
+  I'm an <strong>Icamiaba</strong> in tech!<br />
+</p>
+
+<p align="center">
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
 </p>
 
