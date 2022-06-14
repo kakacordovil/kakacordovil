@@ -1,7 +1,7 @@
 
 <span align="center">
 
-<h2> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hellooo Helloo World! </h2>
+##  Hellooo Helloo World! 👋 
 
 </span>
 
@@ -44,6 +44,9 @@
   <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 </p>  
+<p>
+  <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+</p>
 
 ## 💻 Technologies & Tools
 
