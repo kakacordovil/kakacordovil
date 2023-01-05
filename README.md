@@ -53,7 +53,7 @@
 <p align="center">
   
  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-C sharp-181717?style=flat-square&logo=dotnet" height="25"/>
+ <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="25"/>
  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
