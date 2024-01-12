@@ -27,11 +27,11 @@ Using the tech to make word better.
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
+  👩‍💻  Stack: <strong>Backend and Frontend.</strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UI, UX.</strong>
+  🚀  Continuous Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Solidity, SASS, UI, UX.</strong>
 </p>
 
 <p align="center">
