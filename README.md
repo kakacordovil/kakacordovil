@@ -31,7 +31,7 @@ Using the tech to make word better.
 </p>
 
 <p align="center">
-  🚀  Continuous Learning: <strong>Java, C#, JavaScript, PHP, Typescript, React, Webflux, Solidity, SASS, UI, UX.</strong>
+  🚀  Continuous Learning: <strong>Java, C#, JavaScript, Blazor, Typescript, React, Webflux, Solidity, Outsystems, SASS, UI, UX.</strong>
 </p>
 
 <p align="center">
