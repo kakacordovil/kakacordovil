@@ -99,10 +99,6 @@ Currently exploring:
 
 ---
 
-## ⭐ GitHub Stats <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight"> </p>
-
----
-
 <div align="center">
 
 ## Let's build the future with code 🚀
