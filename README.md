@@ -11,7 +11,7 @@
 <p align="center">
 
 Hi! I'm **Ká** 👩‍💻  
-A **developer, builder and AI Agents engineer** passionate about using technology to solve real-world problems.
+A ** ~~User~~Human-Centred solutions designer, developer, builder and AI engineer** passionate about using technology to solve real-world problems.
 
 I started my journey in programming in **2020**, and since then technology has become a path of **dreams, purpose and impact**.
 
